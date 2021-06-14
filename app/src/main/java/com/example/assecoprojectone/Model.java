@@ -1,7 +1,5 @@
 package com.example.assecoprojectone;
 
-import android.net.Uri;
-
 public class Model {
     private String mModelName;
     private String mThumbnail;
